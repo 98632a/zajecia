@@ -2,7 +2,7 @@ Julia Furmanowicz
 
 **Email:** twoj.email@example.com
 **Telefon:** +48 123 456 789
-**Lokalizacja:** Miasto, Kraj
+**Lokalizacja:** Poznań, Polska
 
 ## Podsumowanie
 Krótki, zwięzły opis Twojego doświadczenia, umiejętności i celów zawodowych.
