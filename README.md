@@ -1,0 +1,6 @@
+# zajecia,
+            existing = TRUE
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/workflowr/workflowr
